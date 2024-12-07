@@ -73,7 +73,7 @@ Un messaggio che, forse, potrebbe essere il primo passo verso una generazione pi
     <script>
         function checkPassword() {
             const input = document.getElementById("password").value;
-            const correctPassword = "tua_password"; // Sostituisci con la password che vuoi usare
+            const correctPassword = "MARCOBITETTO"; // Sostituisci con la password che vuoi usare
             if (input === correctPassword) {
                 document.getElementById("login").style.display = "none";
                 document.getElementById("content").style.display = "block";
